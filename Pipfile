@@ -1,0 +1,40 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+certifi = "*"
+chardet = "*"
+click = "*"
+decorator = "*"
+Flask = "*"
+gunicorn = "*"
+idna = "*"
+ipython_genutils = "*"
+itsdangerous = "*"
+Jinja2 = "*"
+jsonschema = "*"
+jupyter-core = "*"
+MarkupSafe = "*"
+nbformat = "*"
+numpy = "*"
+pandas = "*"
+pipenv = "*"
+plotly = "*"
+python-dateutil = "*"
+pytz = "*"
+requests = "*"
+six = "*"
+traitlets = "*"
+urllib3 = "*"
+virtualenv = "*"
+virtualenv-clone = "*"
+Werkzeug = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "*"
+
+
